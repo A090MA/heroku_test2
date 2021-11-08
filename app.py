@@ -1,7 +1,7 @@
 # Dependencies
 from flask import Flask, render_template, redirect
 from flask_pymongo import PyMongo
-from numpy.core.function_base import logspace
+#from numpy.core.function_base import logspace
 import pandas as pd
 import pymongo
 
